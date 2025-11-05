@@ -3,11 +3,11 @@
 RocketTest is a demo **Flutter authentication app** built using the public API from [Reqres](https://reqres.in/api/).  
 ### 🔹 Login credentials
 email: eve.holt@reqres.in,
-password": cityslicka
+password: cityslicka
 
 ### 🔹 Register credentials
 email: eve.holt@reqres.in,
-password": pistol
+password: pistol
 
 | Layer                     | Technology                                        |
 | ------------------------- | ------------------------------------------------- |
