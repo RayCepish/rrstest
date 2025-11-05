@@ -1,6 +1,6 @@
 
 
-RocketTest is a demo **Flutter authentication app** built using the public API from [Reqres](https://reqres.in/api/).  
+RocketTest is a demo **Flutter authentication app** built using the public API from [Reqres](https://app.reqres.in/).  
 ### 🔹 Login credentials
 email: eve.holt@reqres.in,
 password: cityslicka
